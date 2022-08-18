@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RadioactvePixels
-- 👀 I’m interested in ... GAY
-- 🌱 I’m currently learning ... GAY
-- 💞️ I’m looking to collaborate on ... GAY
-- 📫 How to reach me ... do not.
+- 📚 Highschool Student '24
+- 💻 COMPUTER SCIENCE YEAHHHHH
 
 <!---
 RadioactvePixels/RadioactvePixels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
